@@ -24,7 +24,7 @@ Sign up at [console.anthropic.com](https://console.anthropic.com) and create an 
 
 Click the button below or follow the manual steps:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/scout-freebie)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/tacrae/scout-freebie)
 
 **Or manually:**
 
